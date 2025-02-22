@@ -11,8 +11,8 @@ Key Features:
 SHAHO doesn’t promise to eliminate volatility; instead, it offers a framework where market movements become more comprehensible, controlled, and actionable. This approach builds trust and enables traders and investors to plan strategies within a more predictable environment.  
 
 If you’re interested in supporting this project, you can contribute donations to the following addresses:  
-•	Solana (SOL): [5bQGGch17GQuSW9BdsU1p7JhNVvzML4u93rhNYRuhLyA]  
-•	Bitcoin (BTC SegWit): [bc1qvkazehuc5nd8dm0gatntptk0cqsuvvp4277kr7]  
-•	Ethereum (ERC20): [0x0c0e744da93183e9fefa1923e5439fb907e86276]  
+•	Solana: [7fauN6thStV76XU4zZpsGxQM2GKYE7SwTRZeS23WwaPp]  
+•	Bitcoin: [bc1qv07kq4x5hmgfdvvccy969w86m0ynpmzcfky40m]  
+•	Ethereum: [0xb28Ea03a55a09a00B7F84C65A28dDc6a344117E9]  
 
 SHAHO is a perfect synergy between the evolution of traditional markets and the transformative innovation of blockchain technology.  
